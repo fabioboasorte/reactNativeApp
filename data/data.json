@@ -1,0 +1,1494 @@
+{
+    "convenios": [
+        {
+            "tituloTextoImagem": {
+                "titulo": "Corpo em Ação",
+                "texto": "Descontos apenas para associados e cotistas conforme abaixo:<br \/>\r\n<br \/>\r\nUnidade Tapajós » 10% de desconto em todos os horários com exceção das modalidades terceirizadas.<br \/>\r\n <br \/>\r\nDemais Unidade » 10 % de desconto entre as 6:00 horas e as 17:00 horas.<br \/>\r\n<br \/>\r\nPara maiores informações » 3333-0989 ou 99959-0989",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/CorpoEmAcao.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "academia"
+                    }, {
+                        "campo": "lazer"
+                    }, {
+                        "campo": "indaial"
+                    }
+                ],
+                "site": "",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "Academia Cultural",
+                "texto": "Descontos apenas para associados e cotistas conforme abaixo:<br \/>\r\n<br \/>\r\n10% de desconto em todas modalidades.<br \/>\r\n<br \/>\r\nPara maiores informações » 3382-3708<br \/>\r\n<br \/>\r\nAtendimento em Timbó.",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/Cultural.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "academia"
+                    }, {
+                        "campo": "lazer"
+                    }, {
+                        "campo": "timbo"
+                    }
+                ],
+                "site": "http:\/\/www.academiacultural.net\/",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "Academia Viva",
+                "texto": "Descontos apenas para sócios e cotistas conforme abaixo:<br \/>\r\n<br \/>\r\n20% de desconto em todas modalidades.<br \/>\r\n<br \/>\r\nPara maiores informações » 3252-0013<br \/>\r\n<br \/>\r\nAtendimento em Brusque.",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/VIVA.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "academia"
+                    }, {
+                        "campo": "lazer"
+                    }, {
+                        "campo": "brusque"
+                    }
+                ],
+                "site": "http:\/\/vivasportacademia.com.br\/",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "Movimento",
+                "texto": "Descontos apenas para associados e cotistas conforme abaixo:<br \/>\r\n<br \/>\r\n10% de desconto em todas modalidades.<br \/>\r\n<br \/>\r\nPara maiores informações » 3395-1843 ou 98414-5253<br \/>\r\n<br \/>\r\nAtendimento em Pomerode.",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/Movimento.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "academia"
+                    }, {
+                        "campo": "lazer"
+                    }, {
+                        "campo": "pomerode"
+                    }
+                ],
+                "site": "https:\/\/facebook.com\/academiamovimentopomerode",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "Quality Life",
+                "texto": "Descontos apenas para sócios e cotistas conforme abaixo:<br \/>\r\n<br \/>\r\n20% de desconto em todas modalidades.<br \/>\r\n<br \/>\r\nPara maiores informações » 3323-7911<br \/>\r\n<br \/>\r\nAtendimento em Blumenau.",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/QualityLife.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "academia"
+                    }, {
+                        "campo": "lazer"
+                    }, {
+                        "campo": "blumenau"
+                    }
+                ],
+                "site": "",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "PhisioClinica",
+                "texto": "Descontos especial apenas para sócios e cotistas<br \/>\r\n<br \/>\r\nPara maiores informações entrar em contato » 3382-6324<br \/>\r\n<br \/>\r\nAtendimento em Timbó",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/Phisio.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "academia"
+                    }, {
+                        "campo": "fisioterapia"
+                    }, {
+                        "campo": "saude"
+                    }, {
+                        "campo": "lazer"
+                    }, {
+                        "campo": "timbo"
+                    }
+                ],
+                "site": "https:\/\/facebook.com\/clinicanovafisio",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "Innova",
+                "texto": "Descontos apenas para associados e cotistas conforme abaixo:<br \/>\r\n<br \/>\r\n10% de desconto com nutricionista;<br \/>\r\n15% de desconto em Pilates 2x na semana (matutino e vespertino);<br \/>\r\n15% de desconto nas modalidades de musculação funcional (matutino e vespertino).<br \/>\r\n<br \/>\r\nPara maiores informações » 3323-5031 ou 99120-5090<br \/>\r\n<br \/>\r\nAtendimento em Blumenau.",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/Innova.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "academia"
+                    }, {
+                        "campo": "fisioterapia"
+                    }, {
+                        "campo": "nutricionista"
+                    }, {
+                        "campo": "lazer"
+                    }, {
+                        "campo": "saude"
+                    }, {
+                        "campo": "blumenau"
+                    }
+                ],
+                "site": "https:\/\/facebook.com\/innovacare.blumenau",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "Auto Escola CFC Marijá",
+                "texto": "Descontos apenas para sócios e cotistas conforme abaixo:<br \/>\r\n<br \/>\r\n10% de desconto no pagamento a vista;<br \/>\r\n5% de desconto no pagamento a prazo;<br \/>\r\nDisponível para todos os serviços prestados.<br \/>\r\n<br \/>\r\nPara maiores informações » 3351-2719 ou 9997-5595<br \/>\r\n<br \/>\r\nAtendimento em Blumenau.",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/Marijá.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "automovel"
+                    }, {
+                        "campo": "lazer"
+                    }, {
+                        "campo": "blumenau"
+                    }
+                ],
+                "site": "https:\/\/facebook.com\/autoescolamarija",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "Auto Escola Modelo",
+                "texto": "Descontos apenas para sócios e cotistas conforme abaixo:<br \/>\r\n<br \/>\r\n5% de desconto no pagamento a vista para todos os serviços prestados;<br \/>\r\n5% de desconto no pagamento a prazo da primeira habilitação;<br \/>\r\n<br \/>\r\nPara maiores informações » 3322-0993 ou 99149-6028<br \/>\r\n<br \/>\r\nAtendimento em Blumenau.",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/Modelo.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "automovel"
+                    }, {
+                        "campo": "lazer"
+                    }, {
+                        "campo": "blumenau"
+                    }
+                ],
+                "site": "http:\/\/www.modeloautoescola.com.br\/",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "Auto Escola Testo",
+                "texto": "Descontos apenas para sócios e cotistas conforme abaixo:<br \/>\r\n<br \/>\r\n5% de desconto no pagamento a vista para todos os serviços prestados;<br \/>\r\n5% de desconto no pagamento a prazo da primeira habilitação;<br \/>\r\n<br \/>\r\nPara maiores informações » 3387-0450<br \/>\r\n<br \/>\r\nAtendimento em Pomerode.",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/Testo.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "automovel"
+                    }, {
+                        "campo": "lazer"
+                    }, {
+                        "campo": "pomerode"
+                    }
+                ],
+                "site": "http:\/\/www.autoescolatesto.com.br\/",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "MAM Pneus",
+                "texto": "Descontos apenas para sócios e cotistas conforme abaixo:<br \/>\r\n<br \/>\r\nDescontos de até 20% na tabela vigente;<br \/>\r\n<br \/>\r\nPara maiores informações » 3144-1900<br \/>\r\n<br \/>\r\nAtendimento em Blumenau.",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/MAM-Pneus.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "automovel"
+                    }, {
+                        "campo": "lazer"
+                    }, {
+                        "campo": "blumenau"
+                    }
+                ],
+                "site": "http:\/\/www.mampneus.com.br\/",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "Bluclin",
+                "texto": "Descontos especial nas consultas apenas para sócios e cotistas;<br \/>\r\n<br \/>\r\nEspecialidade: Clinico Geral – Ginecologista e Pediatra;<br \/>\r\n<br \/>\r\nPara maiores informações » 3019-0404 ou 99663-7444<br \/>\r\n<br \/>\r\nAtendimento em Blumenau.<br \/>\r\n",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/Bluclin.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "clinicas"
+                    }, {
+                        "campo": "saude"
+                    }, {
+                        "campo": "blumenau"
+                    }
+                ],
+                "site": "https:\/\/facebook.com\/bluclinblumenau",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "CardioPrime",
+                "texto": "Descontos especial apenas para sócios e cotistas.<br \/>\r\n<br \/>\r\nEspecialidade: Cardiologista;<br \/>\r\n<br \/>\r\nPara maiores informações entrar em contato » 3231-0200 ou 3231-0240<br \/>\r\n<br \/>\r\nAtendimento em Blumenau.<br \/>\r\n",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/CardioPrime.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "clinicas"
+                    }, {
+                        "campo": "saude"
+                    }, {
+                        "campo": "blumenau"
+                    }
+                ],
+                "site": "https:\/\/cardioprime.med.br\/",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "DoutorBlu",
+                "texto": "Descontos apenas para sócios e cotistas conforme abaixo:<br \/>\r\n<br \/>\r\n20% em todas as consultas; <br \/>\r\n15% nos exames de ultrassom;<br \/>\r\n<br \/>\r\nEspecialidade: Ultrassom.<br \/>\r\n<br \/>\r\nPara maiores informações » 3039-0444 ou 99917-4044.<br \/>\r\n<br \/>\r\nAtendimento em Blumenau.",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/DoutorBlu.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "clinicas"
+                    }, {
+                        "campo": "saude"
+                    }, {
+                        "campo": "blumenau"
+                    }
+                ],
+                "site": "http:\/\/doutorblu.com.br\/",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "PulmoClinica",
+                "texto": "Descontos especial apenas para sócios e cotistas.<br \/>\r\n<br \/>\r\nEspecialidade: Área Pulmonar;<br \/>\r\n<br \/>\r\nPara maiores informações entrar em contato » 3322-6808<br \/>\r\n<br \/>\r\nAtendimento em Blumenau.<br \/>\r\n",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/PulmoClínica.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "clinicas"
+                    }, {
+                        "campo": "saude"
+                    }, {
+                        "campo": "blumenau"
+                    }
+                ],
+                "site": "https:\/\/www.pulmoclinica.com.br\/",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "Salubris",
+                "texto": "Descontos especial apenas para sócios e cotistas.<br \/>\r\n<br \/>\r\nEspecialidade: Clínico Geral - Medicina do Trabalho;<br \/>\r\n<br \/>\r\nPara maiores informações entrar em contato » 3333-1929<br \/>\r\n<br \/>\r\nAtendimento em Indaial.<br \/>\r\n",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/ClínicaSalubris.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "clinicas"
+                    }, {
+                        "campo": "saude"
+                    }, {
+                        "campo": "indaial"
+                    }
+                ],
+                "site": "http:\/\/salubris.com.br\/",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "SantaRita",
+                "texto": "Descontos especial apenas para sócios e cotistas.<br \/>\r\n<br \/>\r\nEspecialidade: Consultar Site;<br \/>\r\n<br \/>\r\nPara maiores informações entrar em contato » 3350-5028 ou 99161-1766<br \/>\r\n<br \/>\r\nAtendimento em Brusque.",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/SantaRita.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "clinicas"
+                    }, {
+                        "campo": "saude"
+                    }, {
+                        "campo": "blumenau"
+                    }
+                ],
+                "site": "https:\/\/www.santaritaclinicamedica.com.br\/",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "UroPrime",
+                "texto": "Descontos especial apenas para sócios e cotistas.<br \/>\r\n<br \/>\r\nEspecialidade: Urologista;<br \/>\r\n<br \/>\r\nPara maiores informações entrar em contato » 3037-4690 ou 99931-0415<br \/>\r\n<br \/>\r\nAtendimento em Blumenau.",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/UroPrime.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "clinicas"
+                    }, {
+                        "campo": "saude"
+                    }, {
+                        "campo": "blumenau"
+                    }
+                ],
+                "site": "https:\/\/uroprime.com.br\/",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "MedPrev",
+                "texto": "Descontos especial apenas para sócios e cotistas.<br \/>\r\n<br \/>\r\nEncaminhamentos médicos, odontológicos e de outras especialidade;<br \/>\r\nAgendamento e pagamento diretamente com Med Prev;<br \/>\r\n<br \/>\r\nPara maiores informações entrar em contato » 3035-5200<br \/>\r\n<br \/>\r\nAtendimento em Blumenau.",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/MedPrev.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "clinicas"
+                    }, {
+                        "campo": "saude"
+                    }, {
+                        "campo": "odonto"
+                    }, {
+                        "campo": "blumenau"
+                    }
+                ],
+                "site": "https:\/\/medprev.online\/",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "Cetelbras",
+                "texto": "Descontos apenas para associados e cotistas conforme abaixo:<br \/>\r\n<br \/>\r\n51% de desconto em cursos técnicos profissionalizantes, conforme tabela de preço vigente;<br \/>\r\n<br \/>\r\nPara maiores informações » 3041-9805",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/Cetelbras.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "educacao"
+                    }, {
+                        "campo": "lazer"
+                    }, {
+                        "campo": "indaial"
+                    }, {
+                        "campo": "pomerode"
+                    }, {
+                        "campo": "timbo"
+                    }
+                ],
+                "site": "https:\/\/www.cetelbras.com.br\/",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "Christine Bianchi Coach",
+                "texto": "Descontos apenas para associados e cotistas conforme abaixo:<br \/>\r\n<br \/>\r\n20% de desconto sobre todos os serviços ofertados;<br \/>\r\n<br \/>\r\nPara maiores informações » 99981-6269<br \/>\r\n<br \/>\r\nAtendimento em Blumenau e região.<br \/>\r\n",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/Christiane.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "educacao"
+                    }, {
+                        "campo": "lazer"
+                    }, {
+                        "campo": "blumenau"
+                    }
+                ],
+                "site": "https:\/\/christinebianchi.wixsite.com\/cebcoach",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "Fisk Idiomas",
+                "texto": "Descontos apenas para associados e cotistas conforme abaixo:<br \/>\r\n<br \/>\r\n25% de desconto nos cursos de inglês, espanhol e português;<br \/>\r\n<br \/>\r\nPara maiores informações » 3329-1818<br \/>\r\n<br \/>\r\nAtendimento em Blumenau.",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/Fisk.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "educacao"
+                    }, {
+                        "campo": "lazer"
+                    }, {
+                        "campo": "blumenau"
+                    }
+                ],
+                "site": "https:\/\/www.fisk.com.br\/unidades\/blumenau",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "Proway",
+                "texto": "Vantagens exclusivas apenas para associados e cotistas.<br \/>\r\n<br \/>\r\nPara maiores informações » 3322-3344<br \/>\r\n<br \/>\r\nAtendimento em Blumenau.",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/ProWay.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "educacao"
+                    }, {
+                        "campo": "lazer"
+                    }, {
+                        "campo": "blumenau"
+                    }
+                ],
+                "site": "https:\/\/www.proway.com.br\/",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "UniCesumar",
+                "texto": "Descontos apenas para sócios e cotistas conforme abaixo:<br \/>\r\n<br \/>\r\n10% de desconto nas mensalidades;<br \/>\r\n10% de desconto pela pontualidade;<br \/>\r\n<br \/>\r\nPara maiores informações » 3035-6646<br \/>\r\n<br \/>\r\nAtendimento em Blumenau.",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/UniCesumar.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "educacao"
+                    }, {
+                        "campo": "lazer"
+                    }, {
+                        "campo": "blumenau"
+                    }
+                ],
+                "site": "https:\/\/www.unicesumar.edu.br\/home\/",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "Dorita",
+                "texto": "Descontos especiais para sócios e cotistas;<br \/>\r\n<br \/>\r\nPara maiores informações » 3351-3681 ou 0800 645 4550<br \/>\r\n<br \/>\r\nAtendimento em Brusque.",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/Dorita.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "farmacia"
+                    }, {
+                        "campo": "saude"
+                    }, {
+                        "campo": "blumenau"
+                    }
+                ],
+                "site": "https:\/\/facebook.com\/doritafarmacia",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "Drogaria Farmais",
+                "texto": "Descontos para sócios e cotistas conforme abaixo:<br \/>\r\n<br \/>\r\n70% de desconto nos medicamentos;<br \/>\r\n<br \/>\r\nPara maiores informações » 3323-0110 ou 99998-0212<br \/>\r\n<br \/>\r\nAtendimento em Blumenau, Indaial e Timbó.",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/FarMais.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "farmacia"
+                    }, {
+                        "campo": "saude"
+                    }, {
+                        "campo": "blumenau"
+                    }, {
+                        "campo": "indaial"
+                    }, {
+                        "campo": "timbo"
+                    }
+                ],
+                "site": "https:\/\/facebook.com\/redefarmais",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "Farmalan Farmácias",
+                "texto": "Descontos para sócios e cotistas conforme abaixo:<br \/>\r\n<br \/>\r\n30% de desconto nos medicamentos genéricos;<br \/>\r\n<br \/>\r\nPara maiores informações » 3395-3333 ou 992580674<br \/>\r\n<br \/>\r\nAtendimento em Pomerode.",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/Farmalan.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "farmacia"
+                    }, {
+                        "campo": "saude"
+                    }, {
+                        "campo": "pomerode"
+                    }
+                ],
+                "site": "https:\/\/www.farmalan.com.br\/",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "Fina Essência Manipulação",
+                "texto": "Descontos para sócios e cotistas conforme abaixo:<br \/>\r\n<br \/>\r\n12% de desconto a vista;<br \/>\r\n<br \/>\r\nPara maiores informações » 3322-9735<br \/>\r\n<br \/>\r\nAtendimento em Blumenau.",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/FinaEssência.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "farmacia"
+                    }, {
+                        "campo": "saude"
+                    }, {
+                        "campo": "blumenau"
+                    }
+                ],
+                "site": "http:\/\/finaessencia.com.br",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "MasterFarma",
+                "texto": "Descontos especiais para sócios e cotistas;<br \/>\r\n<br \/>\r\nPara maiores informações » 3332-6614<br \/>\r\n<br \/>\r\nAtendimento em Blumenau.",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/MasterFarma.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "farmacia"
+                    }, {
+                        "campo": "saude"
+                    }, {
+                        "campo": "blumenau"
+                    }
+                ],
+                "site": "http:\/\/masterfarma.com.br\/",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "Sirius Manipualção",
+                "texto": "Descontos para sócios e cotistas conforme abaixo:<br \/>\r\n<br \/>\r\n15% de desconto nos produtos manipulados;<br \/>\r\n5% de desconto nos produtos de revenda e acabados a pronta entrega;<br \/>\r\n<br \/>\r\nPara maiores informações » 3396-7777(Blumenau) ou 3351-0788(Brusque)<br \/>\r\n<br \/>\r\nAtendimento em Blumenau e Brusque.",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/Sirius.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "farmacia"
+                    }, {
+                        "campo": "saude"
+                    }, {
+                        "campo": "brusque"
+                    }, {
+                        "campo": "blumenau"
+                    }
+                ],
+                "site": "https:\/\/www.siriusprodutosnaturais.com.br\/",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "Laboratório Equipe",
+                "texto": "Descontos apenas para sócios e cotistas conforme abaixo:<br \/>\r\n<br \/>\r\n5% de desconto nos exames laboratoriais;<br \/>\r\n<br \/>\r\nPara maiores informações » 3322-4330<br \/>\r\n<br \/>\r\nAtendimento em Blumenau.",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/Equipe.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "laboratorios"
+                    }, {
+                        "campo": "saude"
+                    }, {
+                        "campo": "blumenau"
+                    }
+                ],
+                "site": "https:\/\/www.laboratorioequipe.com.br",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "Labotim",
+                "texto": "Descontos apenas para sócios e cotistas conforme abaixo:<br \/>\r\n<br \/>\r\nDescontos especiais nos exames laboratoriais;<br \/>\r\n<br \/>\r\nPara maiores informações » 3399-0029 ou 3382-0277<br \/>\r\n<br \/>\r\nAtendimento em Timbó.",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/Labotim.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "laboratorios"
+                    }, {
+                        "campo": "saude"
+                    }, {
+                        "campo": "timbo"
+                    }
+                ],
+                "site": "http:\/\/www.labotim.com.br\/",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "Sorrimix",
+                "texto": "Vantagens exclusivas para sócios e cotistas em convênios médicos e odontológicos;<br \/>\r\n<br \/>\r\nPara maiores informações » 3042-1388 ou 99253-9291<br \/>\r\n<br \/>\r\nAtendimento em Blumenau.",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/Sorrimix.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "odonto"
+                    }, {
+                        "campo": "saude"
+                    }, {
+                        "campo": "blumenau"
+                    }
+                ],
+                "site": "https:\/\/www.sorrimix.com.br\/",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "Unidonto",
+                "texto": "Somente para os sócios:<br \/>\r\n<br \/>\r\nTodos os serviços são gratuitos;<br \/>\r\n<br \/>\r\nPara maiores informações » 3037-8000<br \/>\r\n<br \/>\r\nAtendimento em Blumenau.",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/Uniodonto.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "odonto"
+                    }, {
+                        "campo": "saude"
+                    }, {
+                        "campo": "blumenau"
+                    }
+                ],
+                "site": "http:\/\/www.uniodonto-sc.com.br\/",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "Botelho",
+                "texto": "Descontos apenas para sócios e cotistas conforme abaixo:<br \/>\r\n<br \/>\r\nDescontos especiais nas consultas;<br \/>\r\n<br \/>\r\nPara maiores informações » 3381-5050<br \/>\r\n<br \/>\r\nAtendimento em Blumenau.<br \/>\r\n",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/Botelho.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "olhos"
+                    }, {
+                        "campo": "saude"
+                    }, {
+                        "campo": "blumenau"
+                    }
+                ],
+                "site": "http:\/\/www.botelho.med.br\/",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "Carlos Optometria",
+                "texto": "Descontos apenas para sócios e cotistas conforme abaixo:<br \/>\r\n<br \/>\r\n10% de desconto a prazo;<br \/>\r\n20% de desconto a vista;<br \/>\r\n<br \/>\r\nPara maiores informações » 3333-0275<br \/>\r\n<br \/>\r\nAtendimento em Indaial.",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/Carlos.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "olhos"
+                    }, {
+                        "campo": "saude"
+                    }, {
+                        "campo": "indaial"
+                    }
+                ],
+                "site": "",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "CCCO - Centro Oftalmológico",
+                "texto": "Descontos especiais apenas para sócios e cotistas:<br \/>\r\n<br \/>\r\nPara maiores informações » 3380-0050(Timbó) ou 3387-4221(Pomerode);<br \/>\r\n<br \/>\r\nAtendimento em Indaial.",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/CCCO.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "olhos"
+                    }, {
+                        "campo": "saude"
+                    }, {
+                        "campo": "timbo"
+                    }, {
+                        "campo": "pomerode"
+                    }
+                ],
+                "site": "http:\/\/www.ccco.com.br\/",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "Ótica Celso",
+                "texto": "Descontos apenas para sócios e cotistas conforme abaixo:<br \/>\r\n<br \/>\r\n10% de desconto a prazo;<br \/>\r\n15% de desconto a vista;<br \/>\r\n<br \/>\r\nPara maiores informações » 3322-3015<br \/>\r\n<br \/>\r\nAtendimento em Blumenau.",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/Celso.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "olhos"
+                    }, {
+                        "campo": "saude"
+                    }, {
+                        "campo": "blumenau"
+                    }
+                ],
+                "site": "http:\/\/www.oticacelso.com.br\/",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "Hospital de Olhos",
+                "texto": "Vantagens exclusivas apenas para sócios e cotistas;<br \/>\r\n<br \/>\r\nPara maiores informações » 3322-5000 <br \/>\r\n<br \/>\r\nAtendimento em Blumenau.",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/HospitalOlhos.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "olhos"
+                    }, {
+                        "campo": "saude"
+                    }, {
+                        "campo": "blumenau"
+                    }
+                ],
+                "site": "https:\/\/hob.med.br\/",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "IOB",
+                "texto": "Vantagens exclusivas apenas para sócios e cotistas;<br \/>\r\n<br \/>\r\nPara maiores informações » 3322-8447<br \/>\r\n<br \/>\r\nAtendimento em Blumenau.",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/IOB.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "olhos"
+                    }, {
+                        "campo": "saude"
+                    }, {
+                        "campo": "blumenau"
+                    }
+                ],
+                "site": "http:\/\/www.iob-oftalmologia.com.br",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "Óptica Varella",
+                "texto": "Descontos apenas para sócios e cotistas conforme abaixo:<br \/>\r\n<br \/>\r\n10% de desconto a prazo;<br \/>\r\n20% de desconto a vista;<br \/>\r\n<br \/>\r\nPara maiores informações » 3334-1892<br \/>\r\n<br \/>\r\nAtendimento em Blumenau.",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/Varella.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "olhos"
+                    }, {
+                        "campo": "saude"
+                    }, {
+                        "campo": "blumenau"
+                    }
+                ],
+                "site": "http:\/\/www.oticavarella.com.br\/opticavarella",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "Ótica Timbó",
+                "texto": "Descontos apenas para sócios e cotistas conforme abaixo:<br \/>\r\n<br \/>\r\n10% de desconto a vista ou 1+1;<br \/>\r\n5X sem entrada;<br \/>\r\n<br \/>\r\nPara maiores informações » 3382-0710<br \/>\r\n<br \/>\r\nAtendimento em Timbó.",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/OticaTimbo.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "olhos"
+                    }, {
+                        "campo": "saude"
+                    }, {
+                        "campo": "timbo"
+                    }
+                ],
+                "site": "https:\/\/facebook.com\/oticatimbo7",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "Gaveard Ótica e Joalheria",
+                "texto": "Descontos apenas para sócios e cotistas conforme abaixo:<br \/>\r\n<br \/>\r\nAté 30% de desconto em armações e lentes de grau;<br \/>\r\nAté 40% de desconto em óculos de sol;<br \/>\r\nAté 40% de desconto em relógios de pulso;<br \/>\r\n<br \/>\r\nPara maiores informações » 3382-0710<br \/>\r\n<br \/>\r\nAtendimento em Brusque e Guabiruba.",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/Gevaerd.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "olhos"
+                    }, {
+                        "campo": "joalheria"
+                    }, {
+                        "campo": "saude"
+                    }, {
+                        "campo": "lazer"
+                    }, {
+                        "campo": "brusque"
+                    }, {
+                        "campo": "guabiruba"
+                    }
+                ],
+                "site": "https:\/\/facebook.com\/gevaerdjoalheirosLTDA",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "Adriana Ribeiro da Silva",
+                "texto": "Descontos apenas para sócios e cotistas conforme abaixo:<br \/>\r\n<br \/>\r\n50% em todas as consultas;<br \/>\r\n<br \/>\r\nPara maiores informações » 98876-2603 ou 99105-1988<br \/>\r\n<br \/>\r\nAtendimento em Blumenau.",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/Adriana.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "psicologia"
+                    }, {
+                        "campo": "saude"
+                    }, {
+                        "campo": "blumenau"
+                    }
+                ],
+                "site": "",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "Juliana Cunha",
+                "texto": "Descontos apenas para sócios e cotistas conforme abaixo:<br \/>\r\n<br \/>\r\n20% em todas as consultas;<br \/>\r\n<br \/>\r\nPara maiores informações » 99237-8122<br \/>\r\n<br \/>\r\nAtendimento em Blumenau.",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/Juliana.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "psicologia"
+                    }, {
+                        "campo": "saude"
+                    }, {
+                        "campo": "blumenau"
+                    }
+                ],
+                "site": "https:\/\/facebook.com\/psicologajulianacunha",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "Marli Holetz - Psicologia e Gestalt",
+                "texto": "Descontos especial apenas para sócios e cotistas<br \/>\r\n<br \/>\r\nPara maiores informações entrar em contato » 99905-6907.<br \/>\r\n<br \/>\r\nAtendimento em Blumenau.",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/Marli.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "psicologia"
+                    }, {
+                        "campo": "saude"
+                    }, {
+                        "campo": "blumenau"
+                    }
+                ],
+                "site": "https:\/\/facebook.com\/mhgestalt",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "Neli Maria Duarte Luciano",
+                "texto": "Descontos especial apenas para sócios e cotistas<br \/>\r\n<br \/>\r\nPara maiores informações entrar em contato » 99121-6167 ou 3381-3384.<br \/>\r\n<br \/>\r\nAtendimento em Blumenau.",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/Neli.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "psicologia"
+                    }, {
+                        "campo": "saude"
+                    }, {
+                        "campo": "blumenau"
+                    }
+                ],
+                "site": "https:\/\/facebook.com\/psicologanelimaria.d",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "Boa Vida",
+                "texto": "Descontos apenas para sócios e cotistas conforme abaixo:<br \/>\r\n<br \/>\r\nIsenção da taxa de adesão e primeira mensalidade grátis para planos de assistência funerária e rede de parcerias;<br \/>\r\n<br \/>\r\nPara maiores informações » 3222-9969<br \/>\r\n<br \/>\r\nAtendimento em Blumenau.",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/BoaVida.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "outros"
+                    }, {
+                        "campo": "funeraria"
+                    }, {
+                        "campo": "saude"
+                    }, {
+                        "campo": "blumenau"
+                    }
+                ],
+                "site": "https:\/\/www.boavida.com.br\/",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "Polyana Carolina de Carvalho Nunes - Nutricionista",
+                "texto": "Descontos apenas para sócios e cotistas conforme abaixo:<br \/>\r\n<br \/>\r\n20% de desconto nas consultas;<br \/>\r\n<br \/>\r\nPara maiores informações » 3381-3331 ou 98802-0265<br \/>\r\n<br \/>\r\nAtendimento em Blumenau.",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/Polyane.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "outros"
+                    }, {
+                        "campo": "nutricionista"
+                    }, {
+                        "campo": "saude"
+                    }, {
+                        "campo": "blumenau"
+                    }
+                ],
+                "site": "",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "Bicho Mania",
+                "texto": "Descontos apenas para sócios e cotistas conforme abaixo:<br \/>\r\n<br \/>\r\n10% de desconto em toda a prestação de serviços;<br \/>\r\n<br \/>\r\nPara maiores informações » 3394-2114<br \/>\r\n<br \/>\r\nAtendimento em Blumenau.",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/BichoMania.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "outros"
+                    }, {
+                        "campo": "petshop"
+                    }, {
+                        "campo": "lazer"
+                    }, {
+                        "campo": "blumenau"
+                    }
+                ],
+                "site": "https:\/\/facebook.com\/Bicho-Mania-263612667072705\/",
+                "ativo": true
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "Alemão Batata",
+                "texto": "Vantagens exclusivas apenas para sócios e cotistas;<br \/>\r\n<br \/>\r\nPara maiores informações » 3329-4242<br \/>\r\n<br \/>\r\nAtendimento em Blumenau.",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/AlemãoBatata.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "outros"
+                    }, {
+                        "campo": "restaurante"
+                    }, {
+                        "campo": "lazer"
+                    }, {
+                        "campo": "blumenau"
+                    }
+                ],
+                "site": "http:\/\/www.alemaobatatachoperia.com.br\/",
+                "ativo": false
+            }
+        }, {
+            "tituloTextoImagem": {
+                "titulo": "Don Corleone",
+                "texto": "Descontos apenas para sócios e cotistas conforme abaixo:<br \/>\r\n<br \/>\r\n20% de desconto em todos os serviços;<br \/>\r\n<br \/>\r\nPara maiores informações » 3035-4949<br \/>\r\n<br \/>\r\nAtendimento em Blumenau.",
+                "imagem": "https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/DonCorleone.png"
+            },
+            "informations": {
+                "definicoes": [
+                    {
+                        "campo": "outros"
+                    }, {
+                        "campo": "restaurante"
+                    }, {
+                        "campo": "lazer"
+                    }, {
+                        "campo": "blumenau"
+                    }
+                ],
+                "site": "https:\/\/facebook.com\/corleonepizzarias",
+                "ativo": true
+            }
+        }
+    ],
+    "conveniosFiltered": {
+        "odonto": [
+            {
+                "id": 32,
+                "cat": "odonto"
+            }, {
+                "id": 33,
+                "cat": "odonto"
+            }
+        ],
+        "olhos": [
+            {
+                "id": 34,
+                "cat": "olhos"
+            }, {
+                "id": 35,
+                "cat": "olhos"
+            }, {
+                "id": 36,
+                "cat": "olhos"
+            }, {
+                "id": 37,
+                "cat": "olhos"
+            }, {
+                "id": 38,
+                "cat": "olhos"
+            }, {
+                "id": 39,
+                "cat": "olhos"
+            }, {
+                "id": 40,
+                "cat": "olhos"
+            }, {
+                "id": 41,
+                "cat": "olhos"
+            }, {
+                "id": 42,
+                "cat": "olhos"
+            }
+        ],
+        "psicologia": [
+            {
+                "id": 43,
+                "cat": "psicologia"
+            }, {
+                "id": 44,
+                "cat": "psicologia"
+            }, {
+                "id": 45,
+                "cat": "psicologia"
+            }, {
+                "id": 46,
+                "cat": "psicologia"
+            }
+        ],
+        "outros": [
+            {
+                "id": 47,
+                "cat": "outros"
+            }, {
+                "id": 48,
+                "cat": "outros"
+            }, {
+                "id": 49,
+                "cat": "outros"
+            }, {
+                "id": 51,
+                "cat": "outros"
+            }
+        ],
+        "laboratorios": [
+            {
+                "id": 30,
+                "cat": "laboratorios"
+            }, {
+                "id": 31,
+                "cat": "laboratorios"
+            }
+        ],
+        "farmacia": [
+            {
+                "id": 24,
+                "cat": "farmacia"
+            }, {
+                "id": 25,
+                "cat": "farmacia"
+            }, {
+                "id": 26,
+                "cat": "farmacia"
+            }, {
+                "id": 27,
+                "cat": "farmacia"
+            }, {
+                "id": 28,
+                "cat": "farmacia"
+            }, {
+                "id": 29,
+                "cat": "farmacia"
+            }
+        ],
+        "automovel": [
+            {
+                "id": 7,
+                "cat": "automovel"
+            }, {
+                "id": 8,
+                "cat": "automovel"
+            }, {
+                "id": 9,
+                "cat": "automovel"
+            }, {
+                "id": 10,
+                "cat": "automovel"
+            }
+        ],
+        "clinicas": [
+            {
+                "id": 11,
+                "cat": "clinicas"
+            }, {
+                "id": 12,
+                "cat": "clinicas"
+            }, {
+                "id": 13,
+                "cat": "clinicas"
+            }, {
+                "id": 14,
+                "cat": "clinicas"
+            }, {
+                "id": 15,
+                "cat": "clinicas"
+            }, {
+                "id": 16,
+                "cat": "clinicas"
+            }, {
+                "id": 17,
+                "cat": "clinicas"
+            }, {
+                "id": 18,
+                "cat": "clinicas"
+            }
+        ],
+        "educacao": [
+            {
+                "id": 19,
+                "cat": "educacao"
+            }, {
+                "id": 20,
+                "cat": "educacao"
+            }, {
+                "id": 21,
+                "cat": "educacao"
+            }, {
+                "id": 22,
+                "cat": "educacao"
+            }, {
+                "id": 23,
+                "cat": "educacao"
+            }
+        ],
+        "academia": [
+            {
+                "id": 0,
+                "cat": "academia"
+            }, {
+                "id": 1,
+                "cat": "academia"
+            }, {
+                "id": 2,
+                "cat": "academia"
+            }, {
+                "id": 3,
+                "cat": "academia"
+            }, {
+                "id": 4,
+                "cat": "academia"
+            }, {
+                "id": 5,
+                "cat": "academia"
+            }, {
+                "id": 6,
+                "cat": "academia"
+            }
+        ]
+    },
+    "noticias": [
+        {
+            "ID": 1046,
+            "post_author": "2",
+            "post_date": "2019-10-09 11:16:26",
+            "post_date_gmt": "2019-10-09 12:16:26",
+            "post_content": "<p class=\"p1\"><strong><i>Exemplo é visto na All4labels, grupo mundial da gráfica Baumgartem em Blumenau. 70 novos funcionários foram contratados desde a fusão há três anos. Novos investidores europeus compram ações do empreendimento<\/i><\/strong><\/p>\r\n<img class=\"aligncenter wp-image-1048 size-full\" src=\"https:\/\/sindgraf.bsuix.com.br\/app\/uploads\/2019\/10\/16-09-all4labels1.jpg\" alt=\"\" width=\"746\" height=\"436\" \/>\r\n<p class=\"p2\">A quantia de profissionais já é de 490 na unidade brasileira da All4Labels, uma das maiores gráficas no segmento de rótulos no mundo. Além disso, os trabalhadores recebem uma participação nos resultados da empresa que chegam a mais um 1,7 salário nominal extra. Situada em Blumenau, a 143 Km da capital catarinense, o número de empregos só cresce desde quando a tradicional gráfica Baumgartem se uniu nesta empreitada global com outros importantes gráficos da América Latina e da Europa. Para o presidente do Sindicato da categoria (STIG) em Blumenau, Moacir Effting, o resultado tem mostrado que tal globalização é um relevante instrumento de investimento para a região, bem como para empresas e funcionários.<\/p>\r\n<p class=\"p2\">“A transformação da Baumgartem em All4Labels trouxe um grande aporte financeiro para a empresa, permitindo com que ampliasse seus postos de trabalho e que continua investindo significativamente na modernização”, realça Moacir.  Há três unidades na América Latina. Uma no México, outra na Argentina, e o parque brasileiro em Blumenau. O progresso chamou a atenção de novos investidores. O fundo alemão Triton, especializado em investimentos com empresas de grande porte, comprou parte das ações da All4Labels no fim do último mês. Moacir espera que venha para somar. O dirigente também preside a Federação catarinense dos gráficos (Fetigesc), representa toda a classe no estado.<\/p>\r\n<p class=\"p2\">A Triton comprou em agosto uma cota acionária minoritária da All4Labels pertencente a Genui Partnes, que deixou o negócio. Em entrevista a mídia catarinense, o diretor dos sócios gerais dos fundos da Triton, Peder Prahl, disse esperar “apoiar ativamente a administração e os funcionários da All4Labels como proprietários estáveis, investindo no crescimento e desenvolvimento da empresa. E é isso que Moacir torce para que ocorra. <em>“Que a Triton venha para somar, como vemos no progresso atual”<\/em>, frisou.<\/p>\r\n<p class=\"p2\">O sindicalista conta que antes de se internacionalizar, a Baumgartem teve sempre um bom relacionamento com o STIG, como também respeitava e valorizava seus trabalhadores. “Sempre tive contato com o dono. Agora, após a fusão, temos com o CEO da companhia. Sempre tive e tenho tido um bom relacionamento com os dirigentes da empresa”, comenta Moacir. Desde que se tornou All4Labels o que mudou foi mais investimento e mais empregados, bem como a maior aproximação deles com o sindicato. Dos 490 trabalhadores, 312 são associados, sendo 167 sócios e 245 cotistas.<\/p>\r\n<p class=\"p2\"><em>\"A diferença entre o gráfico sócio e cotista é que o primeiro tem o direito a votar e ser votado e todos os benefícios do STIG, enquanto o <strong>associado cotista tem direito de votar nas assembleias de negociação coletiva e tem direito aos convênios e à assessoria jurídica que o sindicato oferece.<\/strong>\"<\/em>, fala Moacir. Todavia, a entidade sindical representa o interesse da categoria. E aproveita para convidar quem ainda não é sócio para que se sindicalize.<\/p>\r\nFonte: <a href=\"https:\/\/www.conatig.org.br\/mercado-globalizado-traz-emprego-e-melhoria-para-graficos-catarinenses\/\" target=\"_blank\" rel=\"noopener\">Site Conatig<\/a>",
+            "post_title": "Mercado globalizado traz emprego e melhoria para gráficos catarinenses",
+            "post_excerpt": "",
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_password": "",
+            "post_name": "mercado-globalizado-traz-emprego-e-melhoria-para-graficos-catarinenses",
+            "to_ping": "",
+            "pinged": "",
+            "post_modified": "2019-10-09 11:30:00",
+            "post_modified_gmt": "2019-10-09 12:30:00",
+            "post_content_filtered": "",
+            "post_parent": 0,
+            "guid": "https:\/\/sindgraf.bsuix.com.br\/?p=1046",
+            "menu_order": 0,
+            "post_type": "post",
+            "post_mime_type": "",
+            "comment_count": "0",
+            "filter": "raw"
+        }, {
+            "ID": 820,
+            "post_author": "1",
+            "post_date": "2019-08-14 09:35:42",
+            "post_date_gmt": "2019-08-14 10:35:42",
+            "post_content": "<!-- wp:image {\"id\":821} -->\n<figure class=\"wp-block-image\"><img src=\"https:\/\/sindgraf.bsuix.com.br\/wp-content\/uploads\/2019\/08\/facebook_1564092807249.jpg\" alt=\"\" class=\"wp-image-821\"\/><\/figure>\n<!-- \/wp:image -->\n\n<!-- wp:paragraph -->\n<p>O governo federal\ncriou para 96 milhões de trabalhadores, inclusive para os gráficos, duas novas\nmodalidades para poderem sacar uma pequena parte do dinheiro contido na conta\ndo FGTS. Mas uma dessas opções, a chamada de saque-aniversário, é nociva. Pois,\napós fazerem tal opção e depois venham a perder o emprego, poderão tirar só 40%\nda multa do FGTS, enquanto o valor total fica confiscado por dois anos pelo\ngoverno.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Mas, se ainda assim\nquiser o saque-aniversário, é preciso se inscrever na Caixa. &nbsp;Inicia em\noutubro. Já a liberação do dinheiro, só em 2020. E, mesmo depois de esperar\ntanto para realizar tal saque, só poderá retirar um pouco mais de R$ 500, ou\nmenos, a depender do valor acumulado na conta. O saque estará atrelado ao valor\njá depositado. Varia de 5% a 50% do valor total. Quanto mais tiver na conta,\nmenos poderá retirar. &nbsp;O saque será liberado a partir de abril, atrelado à\ndata de seu aniversário.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>O Sindicato dos\nTrabalhadores Gráficos de Blumenau e Região (Sindgraf) alerta ao trabalhador\nque a modalidade do saque-aniversário, está que permitirá a retirada de uma\npequena parte do valor da conta do FGTS ativo, é uma armadilha do governo\nBolsonaro para confiscar seu dinheiro, em especial daqueles gráficos com\nvalores acumulados há anos no seu trabalho. Para quem já tem, por exemplo, R$\n10 mil a R$ 15 mil na sua conta de FTGS, só pode sacar 15% do montante e mais a\nparcela fixa de R$ 1.150. Se tiver de R$ 15 mil a R$ 20 mil, tira apenas 10% e\nmais parcela de R$ 1,9 mil. Se tiver acima de R$ 20 mil, saca somente 5% e tem\nparcela de R$ 2,9 mil.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Se o acumulado em\nsua conta de FGTS for inferior aos valores citados, tipo apenas R$ 500, saca só\n50%. Se tem de R$ 500 a R$ 1 mil, poderá retirar só 40% e mais uma parcela de\nR$ 50. De R$ 1 mil a R$ 5 mil na conta, saca 30% e mais parcela de R$ 150. Se\nentre R$ 5 mil e R$ 10 mil, retira apenas 20% deste montante e mais uma parcela\nde R$ 1.150.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>“Como podem ver\nserá ruim para quem tem qualquer valor, sobretudo para o gráfico com um valor\nmaior, porque sacará apenas uma pequena parte, e estará autorizando o governo a\nconfiscar o restante do dinheiro por dois anos, mesmo se perder o emprego, pois\na modalidade saque-aniversário do FGTS só pode ser mudada após esse prazo, e,\npara isso, precisa comunicar ao banco que desistiu da opção. O\nsaque-aniversário é uma armadilha. Essa modalidade vai lhe prejudicar na hora\nem que você mais precisar do FGTS, este criado para lhe proteger na hora mais\ndifícil do desemprego”, alerta Moacir José Effting, presidente do Sindgraf.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>O sindicalista\nexplica que seu alerta se baseia na total insegurança que a classe trabalhadora\npassa em relação à rotatividade enorme do setor onde os gráficos mais antigos\nna empresa com melhores salários estão sendo trocados por aqueles de menor\nsalário. Diante disto, o profissional pode ficar sem emprego rapidamente, e\nainda assim, ter de esperar por dois anos para receber a totalidade de seu FGTS\nque ficará confiscado pelo governo, este que se tivesse bem-intencionado\ndeveria permitir seu saque na data de seu aniversário sem quaisquer restrições\nde carência.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>“Por isso alertamos\npara não fazer esta opção da forma que está sendo proposto pelo governo, este\nque só tem trabalhado para reduzir o poder aquisitivo do empregado e para\natenuar leis que possam garantir direitos trabalhistas, bem como afastar o sindicato\ndo trabalhador, que é a única instituição legal que pode defender os direitos\ndos trabalhadores”, conta.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>A outra modalidade\nde saque criado pelo governo é a retirada de R$ 500 antes de vigorar a\nliberação da retirada de uma pequena parte do FGTS através da opção\nsaque-aniversário. Logo, a partir de setembro próximo até março de 2020, os 96\nmilhões de trabalhadores poderão sacar até R$ 500, sem que, com isso, tenha\nautorizado o confisco do restante do valor do seu FGTS. Pela regra, é até R$\n500, por conta ativa e inativa do FGTS. Desse modo, para quem tem conta na\nCaixa, o depósito desses R$ 500 será automático. Se não quiser, precisa avisar\nno banco. Para quem não tem conta na Caixa, pode sacar o valor no banco com\ncartão cidadão, ou nas lotéricas se o valor lá disponível for inferior aos R$\n100.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Então trabalhador\nfique esperto se informe antes de qualquer decisão que vá tomar, um forte\nabraço a todos os trabalhadores da categoria. <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Moacir José\nEffting.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\nPresidente. <\/p>\n<!-- \/wp:paragraph -->",
+            "post_title": "O Presidente do Sindicato dos Trabalhadores Gráfico de Blumenau e Região, alerta para as condições divulgadas para o saque do FGTS. O gráfico que optar pelo saque-aniversário será confiscado.",
+            "post_excerpt": "",
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_password": "",
+            "post_name": "o-presidente-do-sindicato-dos-trabalhadores-grafico-de-blumenau-e-regiao-alerta-para-as-condicoes-divulgadas-para-o-saque-do-fgts-o-grafico-que-optar-pelo-saque-aniversario-sera-confiscado",
+            "to_ping": "",
+            "pinged": "",
+            "post_modified": "2019-08-14 09:35:44",
+            "post_modified_gmt": "2019-08-14 10:35:44",
+            "post_content_filtered": "",
+            "post_parent": 0,
+            "guid": "https:\/\/sindgraf.bsuix.com.br\/?p=820",
+            "menu_order": 0,
+            "post_type": "post",
+            "post_mime_type": "",
+            "comment_count": "0",
+            "filter": "raw"
+        }, {
+            "ID": 816,
+            "post_author": "1",
+            "post_date": "2019-07-08 16:11:53",
+            "post_date_gmt": "2019-07-08 17:11:53",
+            "post_content": "<!-- wp:paragraph -->\n<p>Companheiros pensem\nnisso, pois se acabarem os sindicatos independente de qualquer categoria, seus\ndireitos acabaram também.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p> Fique atento”, alerta Moacir José Effting, presidente do STIG Blumenau.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:image {\"id\":817} -->\n<figure class=\"wp-block-image\"><img src=\"https:\/\/sindgraf.bsuix.com.br\/wp-content\/uploads\/2019\/07\/Sindicato-e-coisa-de-Vagabundo.jpg\" alt=\"\" class=\"wp-image-817\"\/><\/figure>\n<!-- \/wp:image -->",
+            "post_title": "Sindicato dos Trabalhadores da Industria Gráfica da Comunicação Gráfica e dos Serviços Gráfica de Blumenau e Região.",
+            "post_excerpt": "",
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_password": "",
+            "post_name": "sindicato-dos-trabalhadores-da-industria-grafica-da-comunicacao-grafica-e-dos-servicos-grafica-de-blumenau-e-regiao",
+            "to_ping": "",
+            "pinged": "",
+            "post_modified": "2019-07-08 16:11:55",
+            "post_modified_gmt": "2019-07-08 17:11:55",
+            "post_content_filtered": "",
+            "post_parent": 0,
+            "guid": "https:\/\/sindgraf.bsuix.com.br\/?p=816",
+            "menu_order": 0,
+            "post_type": "post",
+            "post_mime_type": "",
+            "comment_count": "0",
+            "filter": "raw"
+        }, {
+            "ID": 805,
+            "post_author": "1",
+            "post_date": "2019-06-28 15:39:20",
+            "post_date_gmt": "2019-06-28 16:39:20",
+            "post_content": "<!-- wp:paragraph {\"fontSize\":\"medium\"} -->\n<p class=\"has-medium-font-size\"><em>Comando da Fetigesc deve sair do STIG Joinville\/SC para STIG Blumenau\/SC<\/em><\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:image {\"id\":806} -->\n<figure class=\"wp-block-image\"><img src=\"https:\/\/sindgraf.bsuix.com.br\/wp-content\/uploads\/2019\/06\/28-06-fetigesc-eleicao-1024x605.jpg\" alt=\"\" class=\"wp-image-806\"\/><\/figure>\n<!-- \/wp:image -->\n\n<!-- wp:paragraph -->\n<p>No próximo mês, dia\n25, os gráficos catarinenses das regiões onde há sindicatos (STIGs) organizados\ne em áreas onde ainda não há, como no Rio do Sul e São Miguel do Oeste, terão\nnovo presidente da Federação da classe no estado (Fetigesc). O presidente da\nentidade, José Acácio antecipa que não participará da disputa para o comando do\nórgão e nem concorrerá para nenhum outro cargo diretivo ou do conselho fiscal.\nNo entanto, o possível candidato a presidência da entidade, Moacir Effeting,\nque preside o STIG Blumenau, entende que Acácio é indispensável na nova\ncomposição da direção Executiva da Federação Gráfica do Estado. O edital de\nconvocação das eleições e inscrição de chapas de gráficos interessadas em\nconcorrer foi publicado pelo respectivo representante.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>“A crise estrutural\ne política é grave sobre o movimento sindical e quase sobre todos os STIGs do\nestado. O cenário é consequência da nova lei trabalhista. Ela estimulou o\nafastamento da classe trabalhadora de suas entidades representativas. Nas não\npodemos deixar desaparecer nossa entidade estadual, está que estarei conduzindo\naté o final do mandato no próximo dia 25”, realça Acácio, que também preside o\nSTIG Joinville.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Levando em conta a\nnecessidade da reorganização da Fetigesc, acima de qualquer interesse e perfil\npolítico-ideológico, Acácio considera que o STIG Blumenau, uma das poucas ainda\nestruturadas no estado, deve se candidatar para assumir a presidência do órgão\nestadual. Blumenau é uma reunião com grandes gráficas e onde o sindicato tem\nmais de 30% de gráficas sindicalizados. Este STIG é presidido por Moacir\nEffeting.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Moacir já divulgou\na publicação do edital para a realização das eleições no dia 25 de julho. “É\npreciso fazer de tudo para que a Fetigesc não se acabe. É a entidade maior dos\ngráficos de Santa Catarina. É superior aos sete STIGs do estado. Não podemos\ndeixar morrer”, diz Acácio. O dirigente reafirma seu apoio a Moacir para o\ncomando da Fetigesc, mas adianta que, infelizmente, por motivos pessoais não\npoderá participar mais como membro da formação da chapa para a eleição da\nentidade. Contudo, tal atitude deverá ser ainda discutida junto aos demais STIGs\nque entendem que Acácio deve continuar na nova direção da Fetigesp.<\/p>\n<!-- \/wp:paragraph -->",
+            "post_title": "STIGs catarinenses elegerão nova direção da Federação Gráfica",
+            "post_excerpt": "",
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_password": "",
+            "post_name": "stigs-catarinenses-elegerao-nova-direcao-da-federacao-grafica",
+            "to_ping": "",
+            "pinged": "",
+            "post_modified": "2019-06-28 15:42:04",
+            "post_modified_gmt": "2019-06-28 16:42:04",
+            "post_content_filtered": "",
+            "post_parent": 0,
+            "guid": "https:\/\/sindgraf.bsuix.com.br\/?p=805",
+            "menu_order": 0,
+            "post_type": "post",
+            "post_mime_type": "",
+            "comment_count": "0",
+            "filter": "raw"
+        }, {
+            "ID": 799,
+            "post_author": "1",
+            "post_date": "2019-06-23 20:13:36",
+            "post_date_gmt": "0000-00-00 00:00:00",
+            "post_content": "<!-- wp:image -->\n<figure class=\"wp-block-image\"><img alt=\"\"\/><\/figure>\n<!-- \/wp:image -->",
+            "post_title": "",
+            "post_excerpt": "",
+            "post_status": "draft",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_password": "",
+            "post_name": "",
+            "to_ping": "",
+            "pinged": "",
+            "post_modified": "2019-06-23 20:13:36",
+            "post_modified_gmt": "2019-06-23 21:13:36",
+            "post_content_filtered": "",
+            "post_parent": 0,
+            "guid": "https:\/\/sindgraf.bsuix.com.br\/?p=799",
+            "menu_order": 0,
+            "post_type": "post",
+            "post_mime_type": "",
+            "comment_count": "0",
+            "filter": "raw"
+        }, {
+            "ID": 758,
+            "post_author": "1",
+            "post_date": "2019-04-08 21:01:37",
+            "post_date_gmt": "2019-04-08 22:01:37",
+            "post_content": "<!-- wp:paragraph -->\n<p>No dia 01\/04\/2019 as 5 horas da manhã, mais de 950 trabalhadores<br> sendo 160 só aqui em Blumenau SC. chegaram para trabalhar e a<br> empresa estava lacrada, na portaria tinha um comunicado que a empresa<br> tinha entrado com um processo de autofalência! <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Uma multinacional que o<br> seu faturamento em 2018 foi de quase 8 bilhões de dólares a nível<br> mundial, e no brasil ela fatura milhões só com impressão da prova do<br> ENEM, GRÁFICA RR DONELLEY, COM FATURAMENTO DE US$ 6 BI EM<br> 2018 E O ENEM PARA IMPRIMIR, FECHA AS PORTAS E NÃO PAGA<br> OS GRÁFICOS \/\/ A gráfica multinacional norte americana (RR Donelley),<br> que faturou 6 bilhões de dólares no mundo no ano passado, alega não<br> ter caixa para pagar os trabalhadores brasileiros que durante anos<br> ajudaram a empresa a ganhar centenas de milhões de reais de dinheiro<br> público com a impressão das provas do Enem.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><em> “Gostaria que fosse MENTIRA, mas hoje que é 1º de abril (ontem) tive que começar o dia explicando para centenas de trabalhadores da empresa, que a multinacional decidiu pedir a sua própria falência e que as verbas<br> rescisórias e a multa do FGTS dos gráficos terão que ser requeridos no<br> processo de falência que não tem qualquer previsão de pagamento! Após<br> assembleia com os trabalhadores, encaminhamos documento à empresa<br> exigindo o imediato pagamento das rescisões, vez que se trata de crédito<br> privilegiado e de caráter alimentar!!!! A nossa luta está só começando!!!”<\/em>,<br> diz Moacir José Effting Presidente do Sindicato Gráfico de Blumenau.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p> \"Este é o Brasil da nova era… RR Donnelley multinacional Americana dá<br> um grande golpe nos trabalhadores Brasileiros, pede falência e deixa 950<br> trabalhadores na rua sem receber… Muitos não gostavam de sindicato!<br> Porém, adivinhem quem está os ajudando agora? O sindicato!\", diz<br> Moacir José Effting, presidente do STIG Blumenau.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><br> O sindicalista lembra ainda da atual opção do novo governo brasileiro de<br> se afastar de vários parceiros internacionais (como China, países árabes<br> e muito mais) para dizer que os EUA são parceiros, mas será mesmo?<br> Ford fechando no ABC; Chevrolet fechando em São José dos Campos;<br> Donnelley em São Paulo e Santa Catarina todas Empresas Americanas<br> fechando também…será que realmente o EUA é a melhor parceria para o<br> Brasil?<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>FONTE Com informações de Raphael Maia, advogado do STIG<br> Barueri\/Osasco, Moacir José Effting Presidente STIG Blumenau.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:image {\"id\":776} -->\n<figure class=\"wp-block-image\"><img src=\"https:\/\/sindgraf.bsuix.com.br\/wp-content\/uploads\/2019\/04\/WhatsApp-Image-2019-04-07-at-19.39.17-1024x768.jpeg\" alt=\"\" class=\"wp-image-776\"\/><\/figure>\n<!-- \/wp:image -->\n\n<!-- wp:image {\"id\":771} -->\n<figure class=\"wp-block-image\"><img src=\"https:\/\/sindgraf.bsuix.com.br\/wp-content\/uploads\/2019\/04\/WhatsApp-Image-2019-04-07-at-19.39.19-2-1024x498.jpeg\" alt=\"\" class=\"wp-image-771\"\/><\/figure>\n<!-- \/wp:image -->\n\n<!-- wp:image {\"id\":770} -->\n<figure class=\"wp-block-image\"><img src=\"https:\/\/sindgraf.bsuix.com.br\/wp-content\/uploads\/2019\/04\/WhatsApp-Image-2019-04-07-at-19.39.20-576x1024.jpeg\" alt=\"\" class=\"wp-image-770\"\/><\/figure>\n<!-- \/wp:image -->\n\n<!-- wp:image {\"id\":772} -->\n<figure class=\"wp-block-image\"><img src=\"https:\/\/sindgraf.bsuix.com.br\/wp-content\/uploads\/2019\/04\/WhatsApp-Image-2019-04-07-at-19.39.19-1-1024x768.jpeg\" alt=\"\" class=\"wp-image-772\"\/><\/figure>\n<!-- \/wp:image -->\n\n<!-- wp:image {\"id\":773} -->\n<figure class=\"wp-block-image\"><img src=\"https:\/\/sindgraf.bsuix.com.br\/wp-content\/uploads\/2019\/04\/WhatsApp-Image-2019-04-07-at-19.39.19-1024x768.jpeg\" alt=\"\" class=\"wp-image-773\"\/><\/figure>\n<!-- \/wp:image -->\n\n<!-- wp:image {\"id\":763} -->\n<figure class=\"wp-block-image\"><img src=\"https:\/\/sindgraf.bsuix.com.br\/wp-content\/uploads\/2019\/04\/WhatsApp-Image-2019-04-07-at-19.39.22-1-1024x498.jpeg\" alt=\"\" class=\"wp-image-763\"\/><\/figure>\n<!-- \/wp:image -->\n\n<!-- wp:image {\"id\":774} -->\n<figure class=\"wp-block-image\"><img src=\"https:\/\/sindgraf.bsuix.com.br\/wp-content\/uploads\/2019\/04\/WhatsApp-Image-2019-04-07-at-19.39.18-1-1024x498.jpeg\" alt=\"\" class=\"wp-image-774\"\/><\/figure>\n<!-- \/wp:image -->\n\n<!-- wp:image {\"id\":760} -->\n<figure class=\"wp-block-image\"><img src=\"https:\/\/sindgraf.bsuix.com.br\/wp-content\/uploads\/2019\/04\/WhatsApp-Image-2019-04-07-at-19.39.23-1-1024x498.jpeg\" alt=\"\" class=\"wp-image-760\"\/><\/figure>\n<!-- \/wp:image -->",
+            "post_title": "Golpe da empresa gráfica Norte-Americana RR Donnelley",
+            "post_excerpt": "",
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_password": "",
+            "post_name": "golpe-da-empresa-grafica-norte-americana-rr-donnelley",
+            "to_ping": "",
+            "pinged": "",
+            "post_modified": "2019-04-08 21:01:39",
+            "post_modified_gmt": "2019-04-08 22:01:39",
+            "post_content_filtered": "",
+            "post_parent": 0,
+            "guid": "https:\/\/sindgraf.bsuix.com.br\/?p=758",
+            "menu_order": 0,
+            "post_type": "post",
+            "post_mime_type": "",
+            "comment_count": "0",
+            "filter": "raw"
+        }, {
+            "ID": 750,
+            "post_author": "1",
+            "post_date": "2019-04-08 20:53:43",
+            "post_date_gmt": "2019-04-08 21:53:43",
+            "post_content": "<!-- wp:paragraph -->\n<p>É com consternação que recebemos a notícia do encerramento<br> das atividades da empresa RR Donnelley Editora e Gráfica Ltda,<br> causando a demissão de 160 pessoas sem a perspectiva de receber<br> seus direitos à curto prazo.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><br> Após deliberação com os empregados, encaminhamos uma pauta<br> de reivindicações para o representante da empresa, sobre questões<br> iniciais pontuadas como a retirada de bens pessoais dos empregados,<br> que, devido ao abrupto fechamento da estrutura, sem notificação prévia<br> por parte da empresa, não puderam fazê­lo.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><br> Além das medidas iniciais em contato direto com o representante<br> da empresa, o Sindicato já está tomando medidas legais cabíveis nessa<br> situação. E todas as medidas tomadas estão assistidas pelos<br> representantes dos empregados, sendo que para este caso, foi<br> constituída uma comissão em conjunto com o Sindicato.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><br> Nos solidarizamos com a situação dos trabalhadores, e não<br> mediremos esforços, lutando ao seu lado para a garantia de sua<br> dignidade, através da justa remuneração de suas verbas trabalhistas.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>MOACIR JOSE EFFTING<br> PRESIDENTE<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:image {\"id\":754} -->\n<figure class=\"wp-block-image\"><img src=\"https:\/\/sindgraf.bsuix.com.br\/wp-content\/uploads\/2019\/04\/20190401_160000-1024x498.jpg\" alt=\"\" class=\"wp-image-754\"\/><\/figure>\n<!-- \/wp:image -->\n\n<!-- wp:image {\"id\":753} -->\n<figure class=\"wp-block-image\"><img src=\"https:\/\/sindgraf.bsuix.com.br\/wp-content\/uploads\/2019\/04\/IMG-20190402-WA0053-1024x768.jpg\" alt=\"\" class=\"wp-image-753\"\/><\/figure>\n<!-- \/wp:image -->\n\n<!-- wp:image {\"id\":756} -->\n<figure class=\"wp-block-image\"><img src=\"https:\/\/sindgraf.bsuix.com.br\/wp-content\/uploads\/2019\/04\/20190401_152819-748x1024.jpg\" alt=\"\" class=\"wp-image-756\"\/><\/figure>\n<!-- \/wp:image -->",
+            "post_title": "NOTA SINDGRAF",
+            "post_excerpt": "",
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_password": "",
+            "post_name": "nota-sindgraf",
+            "to_ping": "",
+            "pinged": "",
+            "post_modified": "2019-04-08 20:53:45",
+            "post_modified_gmt": "2019-04-08 21:53:45",
+            "post_content_filtered": "",
+            "post_parent": 0,
+            "guid": "https:\/\/sindgraf.bsuix.com.br\/?p=750",
+            "menu_order": 0,
+            "post_type": "post",
+            "post_mime_type": "",
+            "comment_count": "0",
+            "filter": "raw"
+        }, {
+            "ID": 723,
+            "post_author": "1",
+            "post_date": "2019-02-22 10:52:46",
+            "post_date_gmt": "2019-02-22 11:52:46",
+            "post_content": "<!-- wp:paragraph -->\n<p><em>Federação Gráfica, FETIGESC representada pelos STIGs Florianópolis e Blumenau, participa da negociação com as entidades onde resultou nesta conquista<\/em><\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph {\"dropCap\":true} -->\n<p class=\"has-drop-cap\">O salário de fevereiro de todos os gráficos catarinenses já deve ter um acréscimo de quase um ponto percentual superior à inflação de 2018. O entendimento é resultado da 3º rodada de negociação entre as entidades industriais e dos trabalhadores deste segmento no estado, realizada na sede da Federação das Indústrias de Santa Catarina, no último dia 12.  A negociação chegou ao fim. Foi definido aumento de 4,3% e não de 3,43%, conforme insistiam os empresários. O reajuste é retroativo à 1º de janeiro.<br>\nOs patrões queriam apenas a recomposição salarial de 3,43%, índice que corresponde a inflação acumulada nos 12 meses do último ano. Mas foi preciso elevar quase 1% a mais para que os trabalhadores aceitassem. A Fetigesc e as demais federações de trabalhadores presentes na rodada lembraram que o PIB catarinense é um dos maiores do Brasil, não sendo justo um aumento para apenas recompor as perdas salariais do período.<br>\nCom o desfecho da negociação, todos os profissionais das industrias de SC são beneficiados, independente das campanhas salariais de cada um dos sindicatos e categorias nas diversas regiões do estado. Nenhuma das campanhas pode ter um piso salarial menor do que o estadual. “Resta o govenador oficiar o novo piso da indústria catarinense através do envio de um projeto de lei para Assembleia Legislativa aprovar e ele sancionar.<br>\n“Contudo, nada impede que as empresas já garantam o novo salário, visto que há anos os poderes Executivo e Legislativo validam tal negociação”, conta Moacir Effting (presidente do STIG Blumenau) e Amilton Vargas (presidente do STIG Florianópolis. Ambos participaram das negociações.<br>\nPela negociação definida, haverá um reajuste médio de 4,3% nos quatro grupos salariais existentes com base na atividade econômica da indústria estadual. Os gráficos estão na última faixa salarial. Ela tem o maior valor. Com isso, o menor salário nas gráficas deve ser de R$ 1.325. Já a 3ª faixa passou para R$ 1.267; a 2º faixa ficou em R$ 1.201; e R$ 1.158 na 1ª.<br>\nA Confederação Nacional dos Gráficos, entidade na qual a Ftigesp e os STIGs Blumenau e Florianópolis são filiados, parabeniza os sindicalistas Moacir e Vargas pela participação neste processo de negociação. “Ao contrário dos que procuram falar mal do movimento sindical, os STIGs dão uma demonstração significativa de que o processo negocial e a  representação sindical dos trabalhadores continuam fundamentais para a manutenção e a garantia dos direitos dos gráficos”, pontua Leonardo Del Roy, presidente da Conatig.<\/p>\n<!-- \/wp:paragraph -->",
+            "post_title": "Negociação garante salário com ganho real a todos gráficos de SC",
+            "post_excerpt": "",
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_password": "",
+            "post_name": "negociacao-garante-salario-com-ganho-real-a-todos-graficos-de-sc",
+            "to_ping": "",
+            "pinged": "",
+            "post_modified": "2019-02-22 10:52:48",
+            "post_modified_gmt": "2019-02-22 11:52:48",
+            "post_content_filtered": "",
+            "post_parent": 0,
+            "guid": "https:\/\/sindgraf.bsuix.com.br\/?p=723",
+            "menu_order": 0,
+            "post_type": "post",
+            "post_mime_type": "",
+            "comment_count": "0",
+            "filter": "raw"
+        }, {
+            "ID": 712,
+            "post_author": "1",
+            "post_date": "2019-01-13 17:26:34",
+            "post_date_gmt": "2019-01-13 18:26:34",
+            "post_content": "Na tarde de 21 de dezembro depois de intensas negociações e discussão chegamos ao consenso da negociação Salarial de 2019.\r\nTodos os direitos dos gráficos de Blumenau, Brusque, Gaspar, Indaial, Pomerode e Timbó.\r\nRenovamos todas as cláusulas da Convenção Coletiva e incluindo outras que vão trazer benefício as duas entidades, clausulas que só poderão ser usadas pelas empresas se estiverem rigorosamente em dia com as duas entidades, assim\r\nvalorizando as negociações entre capital e trabalho, com um percentual de 4 % para todos os trabalhadores da categoria.\r\n\r\nOs pisos Salariais de 1.255,00 reais para os primeiros 90 dias e passando para 1422,00 reais, também ficou permanecendo todas as demais clausulas da Convenção Coletiva, um avanço em termos de negociação.\r\nTambém ficou acertado entre os trabalhadores uma Cota de Representação Sindical aprovado na assembleia a ser pago mensalmente de 6,00 reais de cada trabalhador da categoria.\r\n\r\n<img class=\"aligncenter size-full wp-image-714\" src=\"https:\/\/sindgraf.bsuix.com.br\/wp-content\/uploads\/2019\/01\/2019-01-13-1.png\" alt=\"\" width=\"646\" height=\"176\" \/>\r\n\r\nAcreditamos que diante as dificuldades a reforma trabalhista recente mente aprovada pelo congresso e sancionada, dando mais liberdades aos Sindicatos Laborais e Patronais em fazerem as negociações de interesse da categoria.\r\nAssim se ajusta os interesses de ambas as partes em conseguir o melhor para Todos, com o INPC acumulado no ano de 2018 de 3,43 % acreditamos que ainda fizemos uma boa negociação com um percentual de aumento real de 0,57 %\r\nficando com aumento real de meio por cento para os trabalhadores finaliza o Presidente Moacir José Effting.",
+            "post_title": "Gráficos de Blumenau\/SC Concluem negociações para 2019",
+            "post_excerpt": "",
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_password": "",
+            "post_name": "graficos-de-blumenausc-concluem-negociacoes-para-2019",
+            "to_ping": "",
+            "pinged": "",
+            "post_modified": "2019-01-13 17:26:34",
+            "post_modified_gmt": "2019-01-13 18:26:34",
+            "post_content_filtered": "",
+            "post_parent": 0,
+            "guid": "https:\/\/sindgraf.bsuix.com.br\/?p=712",
+            "menu_order": 0,
+            "post_type": "post",
+            "post_mime_type": "",
+            "comment_count": "0",
+            "filter": "raw"
+        }, {
+            "ID": 703,
+            "post_author": "1",
+            "post_date": "2018-12-12 17:30:10",
+            "post_date_gmt": "2018-12-12 18:30:10",
+            "post_content": "<h5><i>Federação de gráficos catarinenses, representada pelo STIG Blumenau, unem-se a entidades de mais classes em prol de um piso salarial maior\r\n\r\n<\/i><\/h5>\r\nNesta segunda-feira (10), representantes de seis centrais sindicais e de 16 federações de\r\ntrabalhadores catarinenses, como a dos gráficos (Fetigesc), voltam a negociar com o\r\nsegmento patronal sobre o reajuste anual do piso salarial definido para todas as categorias\r\nprofissionais no estado. A data-base é 1º de janeiro. O piso existe desde o ano de 2010.\r\nDesde então, após a negociação entre as classes, os poderes Executivo e Legislativo de SC\r\nvalidam tal decisão dos órgãos patronais e laborais.\r\nO piso estadual é fundamental para balizar o salário de muitas classes, inclusive dos\r\ngráficos que possuem o mesmo valor na maioria das regiões de SC. A única exceção é em\r\nBlumenau, onde o piso local é superior. O presidente do Sindicato dos Gráficos (STIG) de\r\nBlumenau, Moacir Effting, é inclusive quem tem representado a Fetigesc durante as\r\nnegociações do piso estadual nos últimos anos. Ele inclusive participou da 1ª rodada deste\r\nano, há duas semanas, na sede da Federação das Indústrias do Estado.\r\nO piso salarial catarinense apresenta quatro faixas salariais. Os gráficos e outras categorias\r\nestão no patamar que apresenta os maiores valores. A última faixa é de R$ 1.271. Como\r\neste é o valor mínimo que um gráfico deve receber nas empresas de SC, determinado por\r\nlei, nenhuma gráfica do estado pode pagar menos que isso. Assim, estes R$ 1.271 acabam\r\nservindo de referência para todas as negociações salariais dos sete STIGs catarinenses\r\ncom as suas respectivas representações patronais locais.\r\nNo estado, há STIGs nas regiões de Joinville, Blumenau, Florianópolis, Concórdia, Sul\r\ncatarinense, Lages e Itajaí. Moacir conta que na 1ª rodada de negociação do novo piso\r\nestadual para o ano de 2019, as entidades dos trabalhadores aproveitaram para pleitear\r\numa equiparação do piso local com o que é pago no Paraná. “No estado vizinho, o valor é\r\nsuperior na ordem de 18%”, conta o sindicalista gráfico. O acumulado anual da inflação está\r\nem 4%. Mas como a data-base do piso catarinense é em janeiro, as negociações só devem\r\navançar mesmo depois que saírem os números do acumulado da inflação dos 12 meses de\r\n\r\n2018. Todavia, a 2ª rodada de negociação está mantida para a próxima segunda (10).\r\nMoacir já confirmou presença.\r\n<h5><i> <\/i><\/h5>",
+            "post_title": "SINDGRAF de Blumenau e Fetigesc e mais federações iniciam luta para elevar piso salarial de SC",
+            "post_excerpt": "",
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_password": "",
+            "post_name": "sindgraf-de-blumenau-e-fetigesc-e-mais-federacoes-iniciam-luta-para-elevar-piso-salarial-de-sc",
+            "to_ping": "",
+            "pinged": "",
+            "post_modified": "2018-12-12 17:30:10",
+            "post_modified_gmt": "2018-12-12 18:30:10",
+            "post_content_filtered": "",
+            "post_parent": 0,
+            "guid": "https:\/\/sindgraf.bsuix.com.br\/?p=703",
+            "menu_order": 0,
+            "post_type": "post",
+            "post_mime_type": "",
+            "comment_count": "0",
+            "filter": "raw"
+        }
+    ],
+    "informations": {
+        "general": {
+            "empresa": "Sindgraf",
+            "fantasia": "SINDICATO DOS TRABALHADORES DA INDÚSTRIA GRÁFICA DA COMUNICAÇÃO GRÁFICA E DOS SERVIÇOS GRÁFICOS DE BLUMENAU E REGIÃO",
+            "mote": "Nosso papel é garantir melhor qualidade de vida a você, trabalhador!",
+            "cnpj": "",
+            "email": "sindgraf@sindgraf.bsuix.com.br"
+        },
+        "contacts": {
+            "telefoneFixo": "(47) 3322-4060",
+            "whatsapp1": "(47) 99892-0000",
+            "whatsapp2": "",
+            "endereco": "Rua Elesbão Pinto, 241",
+            "cidade": "Blumenau",
+            "estado": "SC"
+        },
+        "social": {
+            "twiiter": "#",
+            "facebook": "#",
+            "instagram": "#",
+            "youtube": "#"
+        }
+    }
+}
